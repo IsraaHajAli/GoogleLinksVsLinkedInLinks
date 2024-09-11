@@ -1,0 +1,7 @@
+<suite name="googlelinkedintest">
+    <test name="testngTest">
+        <classes>
+            <class name="LinkedInLogIn.SearchTest" />
+        </classes>
+    </test>
+</suite>
